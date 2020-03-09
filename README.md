@@ -20,7 +20,7 @@ The widget provides the following functionality:
 
 ![page url](./img/2.png)
 
-2. **Create folders** - you create folders and move files instantly:
+2. **Create folders** - you can create folders and move files instantly:
 
 ![page url](./img/3.png)
 
