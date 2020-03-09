@@ -2,7 +2,7 @@
 
 To install the widget you need to do the following:
 
-1. Download an XML update set.
+1. Download an XML update set - **File Manager Widget.xml**.
 2. Import it into your ServiceNow instance: navigate to **System Update Sets > Retrieved Update Sets**, select **Import Update Set from XML**, and upload the XML file.
 3. Preview and commit the imported update set.
 
@@ -44,13 +44,12 @@ Service Portal widget can also be used in ServiceNow native UI, all you need to 
 
 ![page url](./img/8.png)
 
-## Advanced version and customizations
+## Advanced version and customization
+
 Advanced version of the widget includes the following functionality:
 1. Batch actions 
 2. Ability to rename files/folders
 3. Email client to send files via email
 4. Ability to move files and folders to a different record
 
-For more details about the advanced version or if you need a custom version of the widget with a specific functionality/customization - please contact info@elinsoftware.com.
-
-
+For more details about the advanced version or if you need a custom widget with a specific functionality - please contact info@elinsoftware.com.
