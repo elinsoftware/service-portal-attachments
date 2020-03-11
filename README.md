@@ -51,5 +51,6 @@ Advanced version of the widget includes the following functionality:
 2. Ability to rename files/folders
 3. Email client to send files via email
 4. Ability to move files and folders to a different record
+5. Public links - files can be shared with non-ServiceNow / public users
 
 For more details about the advanced version or if you need a custom widget with a specific functionality - please contact info@elinsoftware.com.
