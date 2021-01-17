@@ -2,7 +2,7 @@
 
 To install the widget you need to do the following:
 
-1. Download an XML update set - **File Manager Widget.xml**. You can get the file from this repo or [download](https://s3.amazonaws.com/dev-labs.io/file-manager/File-Manager-Widget.xml) it instantly.
+1. Download an XML update set - **File Manager Widget 1.2.xml**. You can get the file from this repo or [download](https://s3.amazonaws.com/dev-labs.io/file-manager/File-Manager-Widget12.xml) it instantly.
 2. Import it into your ServiceNow instance: navigate to **System Update Sets > Retrieved Update Sets**, select **Import Update Set from XML**, and upload the XML file.
 3. Preview and commit the imported update set.
 
